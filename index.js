@@ -48,3 +48,5 @@ let pageDisplay = {
 window.onload = function () {
   pageDisplay.exercises();
 };
+
+let cards = {};
